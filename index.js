@@ -2,6 +2,7 @@ const express = require("express");
 const { Pool } = require("pg");
 
 const app = express();
+app.use(express.static("public"));
 
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
@@ -42,6 +43,10 @@ app.get("/api/movies", async (req, res) => {
     res.send({ count: 0, rows: [] });
   }
   client.release();
+});
+
+app.get("*", function(req, res) {
+  res.sendFile(__dirname + "/public/index.html");
 });
 
 const port = process.env.PORT;
