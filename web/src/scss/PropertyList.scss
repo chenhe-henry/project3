@@ -1,0 +1,19 @@
+.property-list__text {
+  text-align: center;
+  color: grey;
+}
+.rent-house {
+  margin: 2rem 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  &-img {
+    height: 10rem;
+    transition: all 0.2s;
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}

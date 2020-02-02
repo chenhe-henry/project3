@@ -1,0 +1,23 @@
+.navigation {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(255, 255, 255, 0.4)
+    ),
+    url("https://static.domain.com.au/content/web/residential/hero/homepage-12-optimised-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30vh;
+  &-brand {
+    color: white;
+    font-weight: 600;
+    font-size: 3rem;
+    padding: 1rem;
+    margin-left: 15rem;
+  }
+  &-title {
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+}
