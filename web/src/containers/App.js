@@ -7,21 +7,24 @@ import MovieDetails from "../MovieDetails";
 import Navi from "../components/Navi/Navi";
 import Footer from "../components/Footer/Footer";
 import PropertyList from "../components/PropertyList/PropertyList";
+import SearchBox from "../components/SearchBox/SearchBox";
 
 export default function App() {
   return (
     <Fragment>
-      <Navi />
-      <PropertyList />
-      <PropertyList />
-      <PropertyList />
-      <Footer />
       <Router>
         <div className="app">
           <Switch>
             <Route exact path="/movies/:id" component={MovieDetails} />
             <Route exact path="/movies" component={MovieList} />
-            <Route exact path="/"></Route>
+            <Route exact path="/">
+              <Navi />
+              <SearchBox />
+              <PropertyList />
+              <PropertyList />
+              <PropertyList />
+              <Footer />
+            </Route>
           </Switch>
         </div>
       </Router>
