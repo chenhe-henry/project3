@@ -1,0 +1,21 @@
+.footer {
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  &--primary {
+    background: rgb(18, 191, 9);
+    height: 5vh;
+    padding: 2rem;
+    &-nav {
+      display: flex;
+      list-style: none;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+    }
+  }
+  &--secondary {
+    background: rgb(5, 5, 118);
+    height: 30vh;
+    padding: 2rem;
+  }
+}

@@ -1,9 +1,11 @@
 import React, { Fragment } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import "./App.scss";
+
 import MovieList from "../MovieList";
 import MovieDetails from "../MovieDetails";
 import Navi from "../components/Navi/Navi";
+import Footer from "../components/Footer/Footer";
 import PropertyList from "../components/PropertyList/PropertyList";
 
 export default function App() {
@@ -11,6 +13,9 @@ export default function App() {
     <Fragment>
       <Navi />
       <PropertyList />
+      <PropertyList />
+      <PropertyList />
+      <Footer />
       <Router>
         <div className="app">
           <Switch>
