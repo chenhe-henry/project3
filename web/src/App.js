@@ -13,20 +13,10 @@ export default function App() {
       <PropertyList />
       <Router>
         <div className="app">
-          <nav>
-            <ul>
-              <li>
-                <Link to="/movies">Movie List</Link>
-              </li>
-            </ul>
-          </nav>
           <Switch>
             <Route exact path="/movies/:id" component={MovieDetails} />
             <Route exact path="/movies" component={MovieList} />
-            <Route exact path="/">
-              <h2>Welcome to the Movie app!</h2>
-              <h2>Find your dream home there!</h2>
-            </Route>
+            <Route exact path="/"></Route>
           </Switch>
         </div>
       </Router>
