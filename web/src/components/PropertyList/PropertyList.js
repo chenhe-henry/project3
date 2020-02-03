@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 
-import "./scss/PropertyList.scss";
+import "./PropertyList.scss";
 
 class PropertyList extends React.Component {
   state = {};

@@ -1,5 +1,5 @@
 import React from "react";
-import "./scss/Navi.scss";
+import "./Navi.scss";
 class Navi extends React.Component {
   state = {};
   render() {
