@@ -13,8 +13,7 @@
     padding: 0.5rem;
     float: left;
     font-weight: 600;
-    background-color: rgb(18, 191, 9);
-    color: white;
+    cursor: pointer;
     &:hover {
       color: rgb(18, 191, 9);
     }
@@ -41,6 +40,12 @@
     padding: 1.02rem;
     width: 6vw;
     font-size: 2rem;
+    cursor: pointer;
+    box-shadow: 0 1rem 2rem rgba(black, 0.1);
+    transition: all 0.2s;
+    &:hover {
+      background-color: darken(rgb(18, 191, 9), 5%);
+    }
   }
   &--recent {
     float: left;
@@ -49,5 +54,18 @@
     color: grey;
     font-weight: 700;
     text-transform: uppercase;
+
+    &-detail {
+      float: left;
+      color: rgb(18, 191, 9);
+      font-weight: 700;
+      display: inline-block;
+      border: 1px solid grey;
+      margin: 0.5rem;
+      padding: 1rem;
+      &:hover {
+        background-color: rgba(grey, 0.1);
+      }
+    }
   }
 }

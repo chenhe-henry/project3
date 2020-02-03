@@ -19,6 +19,10 @@ class SearchBox extends React.Component {
         ></input>
         <div className="search__box--btn">Search</div>
         <div className="search__box--recent"> Recent Searches &darr;</div>
+        <br />
+        <div className="search__box--recent-detail">DeeWhy</div>
+        <div className="search__box--recent-detail">Epping</div>
+        <div className="search__box--recent-detail">Five Docks</div>
       </div>
     );
   }
