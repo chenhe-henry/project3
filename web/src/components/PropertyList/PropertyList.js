@@ -11,7 +11,7 @@ class PropertyList extends React.Component {
       <Fragment>
         <h2 className="property-list__text">We found these just for you</h2>
         <div className="rent-house">
-          <Link to="/houses">
+          <Link to="/houses/1">
             <img
               className="rent-house-img"
               src="https://rimh2.domainstatic.com.au/ZXahnYrndlCjReMN-uudzz724pQ=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016045005_1_1_200131_050507-w1920-h1280"

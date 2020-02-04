@@ -18,7 +18,7 @@ export default function App() {
           <Switch>
             <Route exact path="/movies/:id" component={MovieDetails} />
             <Route exact path="/movies" component={MovieList} />
-            <Route exact path="/houses" component={PropertyDetails} />
+            <Route exact path="/houses/:id" component={PropertyDetails} />
             <Route exact path="/">
               <Navi />
               <SearchBox />
