@@ -8,6 +8,7 @@ import Navi from "../components/Navi/Navi";
 import Footer from "../components/Footer/Footer";
 import PropertyList from "../components/PropertyList/PropertyList";
 import SearchBox from "../components/SearchBox/SearchBox";
+import PropertyDetails from "../components/PropertyDetails/PropertyDetails";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
           <Switch>
             <Route exact path="/movies/:id" component={MovieDetails} />
             <Route exact path="/movies" component={MovieList} />
+            <Route exact path="/houses" component={PropertyDetails} />
             <Route exact path="/">
               <Navi />
               <SearchBox />
