@@ -1,6 +1,7 @@
 import React from "react";
 import "./SearchBox.scss";
 
+import Filter from "../Filter/Filter";
 class SearchBox extends React.Component {
   state = {};
   render() {
@@ -17,6 +18,7 @@ class SearchBox extends React.Component {
           type="text"
           value="Try a location or school you want to live by"
         ></input>
+        <Filter />
         <div className="search__box--btn">Search</div>
         <div className="search__box--recent"> Recent Searches &darr;</div>
         <br />

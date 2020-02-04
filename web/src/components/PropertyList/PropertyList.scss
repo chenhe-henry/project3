@@ -8,11 +8,16 @@
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
-
+  &-shape {
+    margin: 0;
+    -webkit-clip-path: inset(0% 0% 0% 0%);
+    clip-path: inset(0% 0% 0% 0%);
+  }
   &-img {
     height: 10rem;
     transition: all 0.2s;
-    box-shadow: 0 1rem 2rem rgba(black, 0.1);
+    backface-visibility: hidden;
+    box-shadow: 0 1rem 1rem rgba(black, 0.1);
     cursor: pointer;
     &:hover {
       transform: scale(1.1);
