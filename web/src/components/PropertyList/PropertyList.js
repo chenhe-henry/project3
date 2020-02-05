@@ -1,14 +1,39 @@
-import React, { Fragment } from "react";
+import React, { Fragment, useReducer } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import "./PropertyList.scss";
+import Axios from "axios";
 
 import PropertyDetails from "../PropertyDetails/PropertyDetails";
 
 class PropertyList extends React.Component {
-  state = {};
+  state = { users: [], selectUserId: null };
+  componentDidMount() {
+    Axios.get("https://jsonplaceholder.typicode.com/users").then(response => {
+      this.setState({
+        users: response.data
+      });
+      console.log(response);
+    });
+  }
+  userSelectedHandler = id => {
+    this.setState({ selectUserId: id });
+  };
   render() {
+    const users = this.state.users.map(user => {
+      return (
+        <PropertyDetails
+          key={user.id}
+          name={user.name}
+          email={user.email}
+          clicked={() => this.userSelectedHandler(user.id)}
+        />
+      );
+    });
     return (
       <Fragment>
+        {/* <Link to="/houses/1" className="card-link"> */}
+        <div className="card">{users}</div>
+        {/* </Link> */}
         <h2 className="property-list__text">We found these just for you</h2>
         <div className="rent-house">
           <Link to="/houses/1">

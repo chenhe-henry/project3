@@ -1,6 +1,9 @@
-.property-list__text {
-  text-align: center;
-  color: grey;
+.property-list {
+  margin: 1rem;
+  &__text {
+    text-align: center;
+    color: grey;
+  }
 }
 .rent-house {
   margin: 2rem 2rem;
@@ -25,5 +28,16 @@
     &:active {
       transform: translateY(0);
     }
+  }
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  color: black;
+  &-link {
+    text-decoration: none;
   }
 }

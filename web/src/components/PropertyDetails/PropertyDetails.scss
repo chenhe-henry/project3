@@ -1,32 +1,36 @@
 .property-details {
-  &--text {
-    font-weight: 700;
-    font-size: 2rem;
-  }
-  &--gap {
-    width: 60vw;
-  }
-  &--visual {
-    text-align: center;
-    &--img {
-      height: 40vh;
-    }
-  }
-  &--features {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  &--description {
-  }
-  &__button {
-    padding: 1rem 1.5rem;
-    font-weight: 700;
-    outline: none;
-    border-radius: 5px;
-    border: 2px solid black;
-    &:hover {
-      border: 2px solid rgb(18, 191, 9);
-    }
-  }
+  border: 1px solid rgb(211, 164, 164);
+  margin: 2rem;
+  padding: 2rem;
+
+  // &--text {
+  //   font-weight: 700;
+  //   font-size: 2rem;
+  // }
+  // &--gap {
+  //   width: 60vw;
+  // }
+  // &--visual {
+  //   text-align: center;
+  //   &--img {
+  //     height: 40vh;
+  //   }
+  // }
+  // &--features {
+  //   list-style: none;
+  //   margin: 0;
+  //   padding: 0;
+  // }
+  // &--description {
+  // }
+  // &__button {
+  //   padding: 1rem 1.5rem;
+  //   font-weight: 700;
+  //   outline: none;
+  //   border-radius: 5px;
+  //   border: 2px solid black;
+  //   &:hover {
+  //     border: 2px solid rgb(18, 191, 9);
+  //   }
+  // }
 }

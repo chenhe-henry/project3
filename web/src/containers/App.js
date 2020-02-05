@@ -23,8 +23,6 @@ export default function App() {
               <Navi />
               <SearchBox />
               <PropertyList />
-              <PropertyList />
-              <PropertyList />
               <Footer />
             </Route>
           </Switch>
