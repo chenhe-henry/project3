@@ -1,0 +1,842 @@
+[
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13972184,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [
+          {
+            "name": "Amber Boumelhem",
+            "photoUrl": "https://images.domain.com.au/img/17008/contact_1630626.jpeg?mod=200206-100302"
+          },
+          { "name": "Joseph Radice" }
+        ]
+      },
+      "priceDetails": { "displayPrice": "$770 per week" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_1_1_200205_064252-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_2_1_200205_064252-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_3_1_200205_064252-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_4_1_200205_064252-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_5_1_200205_064252-w1500-h999"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Ensuite",
+          "Floorboards",
+          "Gas",
+          "SecureParking",
+          "Bath",
+          "Dishwasher"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 4.0,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "3",
+        "street": "Christel Avenue",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "3 Christel Avenue, Carlingford",
+        "latitude": -33.7651939,
+        "longitude": 151.03479
+      },
+      "headline": "Spacious, Single Level In Murray Farm Catchment",
+      "summaryDescription": "<b></b><br />This light filled family home is located in an ideal location only a short distance to Murray Farm School, shops and M2 bus interchange.   Featuring spacious living areas with floorboards throughout and air-conditioning\r\n\r\nLarge living are...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": ["New"],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T14:00:00",
+            "closingTime": "2020-02-08T14:15:00"
+          }
+        ]
+      },
+      "listingSlug": "3-christel-avenue-carlingford-nsw-2118-13972184"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13963173,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [
+          {
+            "name": "Amber Boumelhem",
+            "photoUrl": "https://images.domain.com.au/img/17008/contact_1630626.jpeg?mod=200206-100302"
+          }
+        ]
+      },
+      "priceDetails": { "displayPrice": "$720 Per Week" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13963173_1_1_200203_051317-w1500-h996"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13963173_2_1_200203_051317-w1500-h996"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13963173_3_1_200203_051317-w1500-h996"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13963173_4_1_200203_051317-w1500-h996"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13963173_5_1_200203_051317-w1500-h996"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Ensuite",
+          "Gas",
+          "SecureParking",
+          "Intercom",
+          "Dishwasher",
+          "FullyFenced"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 3.0,
+        "bedrooms": 4.0,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "21A",
+        "street": "Figtree Avenue",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "21A Figtree Avenue, Carlingford",
+        "latitude": -33.7929077,
+        "longitude": 151.045288
+      },
+      "headline": "VERY IMPRESSIVE LUXURY 4 BEDROOM, FANTASTIC LOCATION",
+      "summaryDescription": "<b></b><br />North Easterly aspect, Master built, as big as a house, this brilliant high set home is centrally located on a gorgeous east facing block with gardens and leafy tranquil surroundings.  Very private and whisper quiet with views.  Well appoi...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": ["New"],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "21a-figtree-avenue-carlingford-nsw-2118-13963173"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13908560,
+      "advertiser": {
+        "type": "Agency",
+        "id": 32455,
+        "name": "Pieta",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/32455/logo_32455.png",
+        "preferredColourHex": "#fff",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/32455/banner_32455.png",
+        "contacts": [
+          {
+            "name": "Fadi Hajjar",
+            "photoUrl": "https://images.domain.com.au/img/32455/contact_1629811.jpeg?mod=200206-200156"
+          },
+          {
+            "name": "Martin Jabraiel",
+            "photoUrl": "https://images.domain.com.au/img/32455/contact_1647466.jpeg?mod=200207-121942"
+          }
+        ]
+      },
+      "priceDetails": {
+        "price": 780,
+        "priceFrom": 780,
+        "priceTo": 780,
+        "displayPrice": "$780"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015856613_4_1_191108_122925-w4000-h2653"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015856613_5_1_191108_122925-w4000-h2648"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015856613_6_1_191108_122925-w4000-h2667"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015856613_7_1_191108_122925-w4000-h2667"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015856613_8_1_191108_122925-w4000-h2667"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": ["BuiltInWardrobes", "NorthFacing", "Bath"],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 4.0,
+        "carspaces": 1,
+        "unitNumber": "",
+        "streetNumber": "1",
+        "street": "Fredrika Place",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "1 Fredrika Place, Carlingford",
+        "latitude": -33.76658,
+        "longitude": 151.0366,
+        "landArea": 1163.0
+      },
+      "headline": "Family Entertainer",
+      "summaryDescription": "<b></b><br />Features:\r\nNestled in a whisper quit cul-de-sac this renovated light filled residence is set on a massive 1,163 SQM approx. The cosy layout provides ample space for family living and entertaining with a free flow floor plan that fuses indo...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T11:30:00",
+            "closingTime": "2020-02-08T11:45:00"
+          }
+        ]
+      },
+      "listingSlug": "1-fredrika-place-carlingford-nsw-2118-13908560"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13953135,
+      "advertiser": {
+        "type": "Agency",
+        "id": 27867,
+        "name": "Ray White Carlingford",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/27867/logo_27867.jpg?date=131775931765826883",
+        "preferredColourHex": "#FEE536",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/27867/banner_27867.jpg?date=131775931252716096",
+        "contacts": [
+          {
+            "name": "Lleyton Gow",
+            "photoUrl": "https://images.domain.com.au/img/27867/contact_1320856.jpeg?mod=200205-163028"
+          },
+          {
+            "name": "Andrew Duck",
+            "photoUrl": "https://images.domain.com.au/img/27867/contact_1687567.jpeg?mod=200205-162535"
+          }
+        ]
+      },
+      "priceDetails": {
+        "price": 640,
+        "priceFrom": 640,
+        "priceTo": 640,
+        "displayPrice": "$640"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13953135_1_1_200130_022525-w4032-h3024"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13953135_2_1_200130_022525-w4032-h3024"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13953135_3_1_200130_022525-w4032-h3024"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13953135_4_1_200130_022525-w4032-h3024"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13953135_5_1_200130_022525-w4032-h3024"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": ["AirConditioning", "BuiltInWardrobes", "SecureParking"],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 3.0,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "159",
+        "street": "Marsden Road",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "159 Marsden Road, Carlingford",
+        "latitude": -33.79051,
+        "longitude": 151.064713,
+        "landArea": 1024.0
+      },
+      "headline": "Spacious Family Home in Convenient Location",
+      "summaryDescription": "<b></b><br />Spacious 3 bedroom home, ideal for a growing family. Recently painted and fresh for your family!\r\n\r\nFeatures:\r\n\r\n3 bedrooms with built in wardrobes\r\nDucted A/C throughout  \r\nSpacious master.\r\nLarge Kitchen\r\nBathroom has a separate toilet.\r...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T11:00:00",
+            "closingTime": "2020-02-08T11:15:00"
+          }
+        ]
+      },
+      "listingSlug": "159-marsden-road-carlingford-nsw-2118-13953135"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13953009,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [
+          {
+            "name": "Amber Boumelhem",
+            "photoUrl": "https://images.domain.com.au/img/17008/contact_1630626.jpeg?mod=200206-100302"
+          }
+        ]
+      },
+      "priceDetails": { "displayPrice": "$680 Per Week" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13363586_1_1_190705_033308-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13363586_2_1_190705_033308-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13363586_3_1_190705_033308-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13363586_4_1_190705_033308-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13363586_5_1_190705_033308-w800-h600"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "SecureParking",
+          "FullyFenced"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 5.0,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "115",
+        "street": "Balaka Drive",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "115 Balaka Drive, Carlingford",
+        "latitude": -33.7730331,
+        "longitude": 151.031372
+      },
+      "headline": "Large Renovated Family Home - Ideal Location",
+      "summaryDescription": "<b></b><br />This Large, 5 bedroom family home, ideally located in a quiet convenient area. Within walking distance(100m) of transport including 546 bus to Epping \r\n\r\n- 5 large bedrooms with built ins master with en suite & walk in Robe\r\n- Separate lou...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "115-balaka-drive-carlingford-nsw-2118-13953009"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13796258,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [{ "name": "Harrison Marley" }]
+      },
+      "priceDetails": { "displayPrice": "**DEPOSIT TAKEN**" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015511750_2_1_190808_011256-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015511750_7_1_190808_011256-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015511750_11_1_190808_011256-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015511750_8_1_190808_011256-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015511750_5_1_190808_011256-w1500-h999"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "Floorboards",
+          "Gas",
+          "SecureParking",
+          "Dishwasher",
+          "FullyFenced"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 3.0,
+        "bedrooms": 4.0,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "15A",
+        "street": "Azile Court",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "15A Azile Court, Carlingford",
+        "latitude": -33.7862129,
+        "longitude": 151.040237
+      },
+      "headline": "**DEPOSIT TAKEN** Brand New! - Architect Design Living",
+      "summaryDescription": "<b></b><br />This stunning Brand new home in prized cul de sac street is located within the in sought after Carlingford West School Catchment, The Kings School & James Ruse Schools.\r\n\r\nFeatures of this brand new home include;\r\n\r\nâ¢ 4 King size bedrooms...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "15a-azile-court-carlingford-nsw-2118-13796258"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13918004,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [
+          {
+            "name": "Margot  Brattoli",
+            "photoUrl": "https://images.domain.com.au/img/17008/contact_1546296.jpeg?mod=200207-093336"
+          },
+          { "name": "Joseph Radice" }
+        ]
+      },
+      "priceDetails": { "displayPrice": "$750 Per Week" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13918004_1_1_200117_052258-w711-h533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13918004_2_1_200117_052258-w711-h533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13918004_3_1_200117_052258-w711-h533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13918004_4_1_200117_052258-w711-h533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13918004_5_1_200117_052258-w711-h533"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Floorboards",
+          "Gas"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 4.0,
+        "carspaces": 4,
+        "unitNumber": "",
+        "streetNumber": "2",
+        "street": "Darwin St",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "2 Darwin St, Carlingford",
+        "latitude": -33.77658,
+        "longitude": 151.053528,
+        "landArea": 781.0,
+        "buildingArea": 120.0
+      },
+      "headline": "Maximum Exposure, Carlingford Precinct, Suit Home Office / Business",
+      "summaryDescription": "<b></b><br />Unbeatable Location centrally located opposite Carlingford Court Shopping Centre, bus at door plus multiple schools. Newly painted and renovated, 3 large rooms + reception will suit a variety of home businesses including, Music, Child Care...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T12:45:00",
+            "closingTime": "2020-02-08T13:00:00"
+          }
+        ]
+      },
+      "listingSlug": "2-darwin-st-carlingford-nsw-2118-13918004"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13830766,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [{ "name": "Harrison Marley" }]
+      },
+      "priceDetails": { "displayPrice": "$730 Per Week" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13830766_1_1_200208_042252-w1500-h1000"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13830766_3_1_191217_041310-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13830766_4_1_191217_041310-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13830766_2_1_191217_041310-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13830766_5_1_191217_041310-w800-h600"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "BuiltInWardrobes",
+          "Ensuite",
+          "Floorboards",
+          "PetsAllowed",
+          "SecureParking",
+          "Dishwasher",
+          "Study"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 4.0,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "8",
+        "street": "Snowdon Avenue",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "8 Snowdon Avenue, Carlingford",
+        "latitude": -33.7818871,
+        "longitude": 151.02887
+      },
+      "headline": "Immaculately Presented 4 BED + STUDY - CARLINGFORD WEST CATCHMENT",
+      "summaryDescription": "<b></b><br />Bright and inviting home, high set amid quality and elegant sought after area, this stunning well maintained home in a an ultra-convenient location, just a short walk to Kingsdene shops, transport and high ranking schools including Kings, ...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T10:45:00",
+            "closingTime": "2020-02-08T11:00:00"
+          }
+        ]
+      },
+      "listingSlug": "8-snowdon-avenue-carlingford-nsw-2118-13830766"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13914365,
+      "advertiser": {
+        "type": "Agency",
+        "id": 17008,
+        "name": "Showcase Realty",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+        "preferredColourHex": "#2222b9",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+        "contacts": [{ "name": "Harrison Marley" }]
+      },
+      "priceDetails": { "displayPrice": "$700 Per Week" },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015768286_1_1_191015_114254-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015768286_2_1_191015_114254-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015768286_3_1_191015_114254-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015768286_4_1_191015_114254-w1500-h999"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015768286_5_1_191015_114254-w1500-h999"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Floorboards",
+          "SecureParking",
+          "SwimmingPool"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 3.0,
+        "carspaces": 1,
+        "unitNumber": "",
+        "streetNumber": "31",
+        "street": "Murray Farm Road",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "31 Murray Farm Road, Carlingford",
+        "latitude": -33.763134,
+        "longitude": 151.043289,
+        "landArea": 929.0
+      },
+      "headline": "Prime Location, Carlingford High & Murray Farm Catchment",
+      "summaryDescription": "<b></b><br />Wonderfully convenient & easy stroll to shops, schools & M2 interchange for easy transport to City, Epping and Chatswood.  Bright North Easterly aspect features air conditioning, polished timber flooring and security alarm.\r\nâ¢\t3 large bed...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T13:00:00",
+            "closingTime": "2020-02-08T13:15:00"
+          }
+        ]
+      },
+      "listingSlug": "31-murray-farm-road-carlingford-nsw-2118-13914365"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Rent",
+      "id": 13977940,
+      "advertiser": {
+        "type": "Agency",
+        "id": 33212,
+        "name": "Starwave Real Estate",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/33212/logo_33212.png",
+        "preferredColourHex": "#123357",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/33212/banner_33212.png",
+        "contacts": [
+          {
+            "name": "Property Management Department",
+            "photoUrl": "https://images.domain.com.au/img/33212/contact_1714535.jpeg?mod=200207-114418"
+          },
+          {
+            "name": "Tony L",
+            "photoUrl": "https://images.domain.com.au/img/33212/contact_1718534.jpeg?mod=200207-114418"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$650 Per Week ,Open Saturday at 12PM"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13977940_1_1_200207_123940-w2048-h1536"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13977940_2_1_200207_123940-w2048-h1536"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13977940_3_1_200207_123940-w1536-h2048"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13977940_4_1_200207_123940-w2048-h1536"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/13977940_5_1_200207_123940-w1536-h2048"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": ["AirConditioning", "SecureParking", "Study"],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 4.0,
+        "carspaces": 1,
+        "unitNumber": "",
+        "streetNumber": "7A",
+        "street": "Cressfield Ave",
+        "area": "Northern Suburbs",
+        "region": "Sydney Region",
+        "suburb": "CARLINGFORD",
+        "postcode": "2118",
+        "displayableAddress": "7A Cressfield Ave, Carlingford",
+        "latitude": -33.7812233,
+        "longitude": 151.040421
+      },
+      "headline": "Stunning And Elegant Family Home Prime Locale",
+      "summaryDescription": "<b></b><br />Enclosed in a leafy enclave, this family-oriented home reveals comfortable living spaces complemented by enticing entertaining areas. Featuring a flexible floor plan with the option of 4 bedrooms or multiple study room.This home is situate...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": ["New"],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-02-08T12:00:00",
+            "closingTime": "2020-02-08T12:30:00"
+          }
+        ]
+      },
+      "listingSlug": "7a-cressfield-ave-carlingford-nsw-2118-13977940"
+    }
+  }
+]

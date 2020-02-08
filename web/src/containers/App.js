@@ -9,6 +9,7 @@ import Footer from "../components/Footer/Footer";
 import PropertyList from "../components/PropertyList/PropertyList";
 import SearchBox from "../components/SearchBox/SearchBox";
 import PropertyDetails from "../components/PropertyDetails/PropertyDetails";
+import Apitest from "../components/TEST/Apitest";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
             <Route exact path="/movies/:id" component={MovieDetails} />
             <Route exact path="/movies" component={MovieList} />
             <Route exact path="/houses/:id" component={PropertyDetails} />
+            <Route exact path="/test" component={Apitest} />
             <Route exact path="/">
               <Navi />
               <SearchBox />

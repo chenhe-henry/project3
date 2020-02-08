@@ -18,6 +18,7 @@ class PropertyList extends React.Component {
   userSelectedHandler = id => {
     this.setState({ selectUserId: id });
   };
+
   render() {
     const users = this.state.users.map(user => {
       return (
@@ -32,6 +33,7 @@ class PropertyList extends React.Component {
     return (
       <Fragment>
         {/* <Link to="/houses/1" className="card-link"> */}
+
         <div className="card">{users}</div>
         {/* </Link> */}
         <h2 className="property-list__text">We found these just for you</h2>
