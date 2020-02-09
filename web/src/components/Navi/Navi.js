@@ -9,7 +9,7 @@ class Navi extends React.Component {
         <div className="banner-container">
           <div className="banner-container-brand">
             <Link to="/" className="banner-container-brand-link">
-              <strong>Domain</strong>
+              <strong>Find Home</strong>
             </Link>
           </div>
           <div className="banner-container-nav">

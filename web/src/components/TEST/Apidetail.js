@@ -5,8 +5,10 @@ const Apidetail = props => {
   return (
     <div>
       <ul>
-        {props.listing.map(l => (
-          <li>
+        <div onClick={props.clicked}>{props.id}</div>
+        {/* {props.list.map(l => (
+          <li onClick={props.clicked}>
+            <div>{l.listing.id}</div>
             <div>{l.listing.propertyDetails.displayableAddress}</div>
             <div>{l.listing.propertyDetails.postcode}</div>
             <div>{l.listing.propertyDetails.region}</div>
@@ -44,7 +46,7 @@ const Apidetail = props => {
               ))}
             </div>
           </li>
-        ))}
+        ))} */}
       </ul>
     </div>
   );
