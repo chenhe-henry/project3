@@ -1,4 +1,4 @@
-.navigation {
+.banner {
   background-image: linear-gradient(
       rgba(0, 0, 0, 0.4),
       rgba(255, 255, 255, 0.4)
@@ -6,7 +6,7 @@
     url("https://static.domain.com.au/content/web/residential/hero/homepage-12-optimised-desktop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30vh;
+
   margin-top: -5vh;
   &-brand {
     color: white;
@@ -22,8 +22,15 @@
   }
   &-title {
     color: white;
-    text-align: center;
+    // text-align: center;
     font-weight: 700;
     font-size: 2rem;
   }
 }
+
+// .container {
+//   display: grid;
+//   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+//   color: white;
+//   z-index: 2000;
+// }

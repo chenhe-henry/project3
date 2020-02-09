@@ -1,8 +1,11 @@
 import React from "react";
 import AwesomeSlider from "react-awesome-slider";
 import "./Apitest.scss";
+
+import Apidetail from "./Apidetail";
+import FullApi from "./FullApi";
 class Apitest extends React.Component {
-  state = { listing: [] };
+  state = { listing: [], selectedListingId: null };
 
   componentWillMount() {
     var myHeaders = new Headers();
@@ -47,47 +50,19 @@ class Apitest extends React.Component {
       .catch(error => console.log("error", error));
   }
 
+  imgSeletedHandler = id => {
+    this.setState({ selectedListingId: id });
+    console.log("id :", id);
+  };
+
   render() {
     return (
       <div>
-        <p>Hi</p>
-        <ul>
-          {this.state.listing.map(l => (
-            <li>
-              <div>{l.listing.propertyDetails.displayableAddress}</div>
-              <div>{l.listing.propertyDetails.postcode}</div>
-              <div>{l.listing.propertyDetails.region}</div>
-              <br />
-              {l.listing.headline}
-              <br />
-              {l.listing.priceDetails.displayPrice}
-              <br />
-              Contact:
-              <div>{l.listing.advertiser.name}</div>
-              <div className="contact-detail">
-                {l.listing.advertiser.contacts.map(c => (
-                  <div>
-                    <div>{c.name}</div>
-                    <img
-                      src={c.photoUrl}
-                      height="300px"
-                      width="300px"
-                      alt={c.name}
-                    />
-                  </div>
-                ))}
-              </div>
-              <br />
-              <div className="property-img">
-                {l.listing.media.map(m => (
-                  <a href={m.url} target="_blank">
-                    <img src={m.url} height="300px" width="300px" />
-                  </a>
-                ))}
-              </div>
-            </li>
-          ))}
-        </ul>
+        <Apidetail
+          listing={this.state.listing}
+          clicked={() => this.imgSeletedHandler(this.state.listing.id)}
+        />
+        <FullApi id={this.state.selectedListingId} />
       </div>
     );
   }

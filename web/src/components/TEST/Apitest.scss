@@ -1,4 +1,7 @@
 .property-img {
+  // display: grid;
+  // grid-gap: 5rem;
+  // grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

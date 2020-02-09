@@ -25,6 +25,7 @@ export default function App() {
               <Navi />
               <SearchBox />
               <PropertyList />
+              <Apitest />
               <Footer />
             </Route>
           </Switch>
