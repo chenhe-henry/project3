@@ -2,7 +2,7 @@ import React from "react";
 import AwesomeSlider from "react-awesome-slider";
 import "./Apitest.scss";
 class Apitest extends React.Component {
-  state = { type: [], listing: [] };
+  state = { listing: [] };
 
   componentWillMount() {
     var myHeaders = new Headers();
