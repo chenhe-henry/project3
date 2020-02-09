@@ -7,11 +7,11 @@ class Navi extends React.Component {
     return (
       <div className="banner">
         <div className="container">
-          <h1 className="banner-brand">
+          <div className="banner-brand">
             <Link to="/" className="banner-brand-link">
               <strong>Domain</strong>
             </Link>
-          </h1>
+          </div>
           <div>Find a Property</div>
           <div>Research</div>
           <div>Find Agents</div>
