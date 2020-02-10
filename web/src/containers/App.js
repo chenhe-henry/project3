@@ -10,6 +10,7 @@ import PropertyList from "../components/PropertyList/PropertyList";
 import SearchBox from "../components/SearchBox/SearchBox";
 import PropertyDetails from "../components/PropertyDetails/PropertyDetails";
 import Apitest from "../components/TEST/Apitest";
+import List from "../components/List/List";
 
 export default function App() {
   return (
@@ -24,8 +25,9 @@ export default function App() {
             <Route exact path="/">
               <Navi />
               <SearchBox />
-              <PropertyList />
-              <Apitest />
+              <List />
+              {/* <PropertyList />
+              <Apitest /> */}
               <Footer />
             </Route>
           </Switch>

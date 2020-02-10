@@ -58,25 +58,20 @@ class Apitest extends React.Component {
   render() {
     const listings = this.state.listing.map(l => {
       return (
-        <Apidetail
-          list={l.listing}
-          key={l.listing.id}
-          id={l.listing.id}
-          clicked={() => this.imgSeletedHandler(l.listing.id)}
-        />
+        <div>
+          <Apidetail
+            list={l.listing}
+            key={l.listing.id}
+            img={l.listing.media}
+            clicked={() => this.imgSeletedHandler(l.listing.id)}
+          />
+        </div>
       );
     });
     return (
       <div>
+        <FullApi id={this.state.selectedListingId} />
         {listings}
-        {
-          /* <Apidetail
-          list={this.state.listing}
-          key={this.state.listing.id}
-          clicked={() => this.imgSeletedHandler(this.state.listing.id)}
-        /> */
-          <FullApi id={this.state.selectedListingId} />
-        }
       </div>
     );
   }

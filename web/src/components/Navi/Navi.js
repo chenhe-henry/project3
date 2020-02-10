@@ -23,9 +23,6 @@ class Navi extends React.Component {
             <div className="banner-container-nav-link">Commercial</div>
             <div className="banner-container-nav-link login">Login</div>
           </div>
-          <div className="banner-container-title">
-            Search Australia's home of property
-          </div>
         </div>
       </div>
     );

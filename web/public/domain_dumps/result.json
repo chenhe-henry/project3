@@ -1,0 +1,93 @@
+{
+  "type": "PropertyListing",
+  "listing": {
+    "listingType": "Rent",
+    "id": 13972184,
+    "advertiser": {
+      "type": "Agency",
+      "id": 17008,
+      "name": "Showcase Realty",
+      "logoUrl": "https://images.domain.com.au/img/Agencys/17008/logo_17008.GIF",
+      "preferredColourHex": "#2222b9",
+      "bannerUrl": "https://images.domain.com.au/img/Agencys/17008/banner_17008.GIF",
+      "contacts": [
+        {
+          "name": "Amber Boumelhem",
+          "photoUrl": "https://images.domain.com.au/img/17008/contact_1630626.jpeg?mod=200206-100302"
+        },
+        {
+          "name": "Joseph Radice"
+        }
+      ]
+    },
+    "priceDetails": {
+      "displayPrice": "$770 per week"
+    },
+    "media": [
+      {
+        "category": "Image",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_1_1_200205_064252-w1500-h999"
+      },
+      {
+        "category": "Image",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_2_1_200205_064252-w1500-h999"
+      },
+      {
+        "category": "Image",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_3_1_200205_064252-w1500-h999"
+      },
+      {
+        "category": "Image",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_4_1_200205_064252-w1500-h999"
+      },
+      {
+        "category": "Image",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/13972184_5_1_200205_064252-w1500-h999"
+      }
+    ],
+    "propertyDetails": {
+      "state": "NSW",
+      "features": [
+        "AirConditioning",
+        "BuiltInWardrobes",
+        "Ensuite",
+        "Floorboards",
+        "Gas",
+        "SecureParking",
+        "Bath",
+        "Dishwasher"
+      ],
+      "propertyType": "House",
+      "allPropertyTypes": ["House"],
+      "bathrooms": 2.0,
+      "bedrooms": 4.0,
+      "carspaces": 2,
+      "unitNumber": "",
+      "streetNumber": "3",
+      "street": "Christel Avenue",
+      "area": "Northern Suburbs",
+      "region": "Sydney Region",
+      "suburb": "CARLINGFORD",
+      "postcode": "2118",
+      "displayableAddress": "3 Christel Avenue, Carlingford",
+      "latitude": -33.7651939,
+      "longitude": 151.03479
+    },
+    "headline": "Spacious, Single Level In Murray Farm Catchment",
+    "summaryDescription": "<b></b><br />This light filled family home is located in an ideal location only a short distance to Murray Farm School, shops and M2 bus interchange.   Featuring spacious living areas with floorboards throughout and air-conditioning\r\n\r\nLarge living are...",
+    "hasFloorplan": true,
+    "hasVideo": false,
+    "labels": ["New"],
+    "inspectionSchedule": {
+      "byAppointment": false,
+      "recurring": false,
+      "times": [
+        {
+          "openingTime": "2020-02-08T14:00:00",
+          "closingTime": "2020-02-08T14:15:00"
+        }
+      ]
+    },
+    "listingSlug": "3-christel-avenue-carlingford-nsw-2118-13972184"
+  }
+}

@@ -8,16 +8,28 @@ class Footer extends React.Component {
     return (
       <footer className="footer">
         <div className="footer--primary">
-          <div className="footer--primary-brand">Domain</div>
-          <div className="footer--primary-link">Help</div>
-          <div className="footer--primary-link">Contact</div>
-          <div className="footer--primary-link">About</div>
-          <div className="footer--primary-link">Careers</div>
+          <div className="footer--primary-brand">
+            <strong>Domain</strong>
+          </div>
+          <div className="footer--primary-link">
+            <strong>Help</strong>
+          </div>
+          <div className="footer--primary-link">
+            <strong>Contact</strong>
+          </div>
+          <div className="footer--primary-link">
+            <strong>About</strong>
+          </div>
+          <div className="footer--primary-link">
+            <strong>Careers</strong>
+          </div>
         </div>
 
         <div className="footer--secondary">
           <div className="footer--secondary-link">
-            <div className="footer--secondary-link-unclickable">States</div>
+            <div className="footer--secondary-link-unclickable">
+              <strong>States</strong>
+            </div>
             <div className="footer--secondary-link-clickable">NSW</div>
             <div className="footer--secondary-link-clickable">Victoria</div>
             <div className="footer--secondary-link-clickable">Queensland</div>
@@ -35,7 +47,7 @@ class Footer extends React.Component {
           </div>
           <div className="footer--secondary-link">
             <div className="footer--secondary-link-unclickable">
-              Capital Cities
+              <strong>Capital Cities</strong>
             </div>
             <div className="footer--secondary-link-clickable">
               Sydney real estate
@@ -64,7 +76,7 @@ class Footer extends React.Component {
           </div>
           <div className="footer--secondary-link">
             <div className="footer--secondary-link-unclickable">
-              Capital Cities - Rentals
+              <strong>Capital Cities - Rentals</strong>
             </div>
             <div className="footer--secondary-link-clickable">
               Sydney rental properties
@@ -93,7 +105,7 @@ class Footer extends React.Component {
           </div>
           <div className="footer--secondary-link">
             <div className="footer--secondary-link-unclickable">
-              Popular Areas
+              <strong>Popular Areas</strong>
             </div>
             <div className="footer--secondary-link-clickable">
               Eastern Suburbs Sydney
@@ -119,7 +131,9 @@ class Footer extends React.Component {
             </div>
           </div>
           <div className="footer--secondary-link">
-            <div className="footer--secondary-link-unclickable">Domain</div>
+            <div className="footer--secondary-link-unclickable">
+              <strong>Domain</strong>
+            </div>
             <div className="footer--secondary-link-clickable">
               Home Price Guide
             </div>
@@ -155,7 +169,7 @@ class Footer extends React.Component {
           </div>
           <div className="footer--secondary-link">
             <div className="footer--secondary-link-unclickable">
-              Our Network
+              <strong>Our Network</strong>
             </div>
             <div className="footer--secondary-link-clickable">
               Sydney Morning Herald
